@@ -11,6 +11,9 @@ Code for our paper: "OadTR: Online Action Detection with Transformers"
 
 # Feature is coming soon...
 
+# Prepare
+* unzip the anno file in ./data/anno_thumos.zip
+
 # Training
 ```
 python main.py --num_layers 3 --decoder_layers 5 --enc_layers 64 --output_dir models/en_3_decoder_5_lr_drop_1
