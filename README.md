@@ -12,7 +12,8 @@ Code for our paper: "OadTR: Online Action Detection with Transformers"
 # Feature is coming soon...
 
 # Prepare
-* unzip the anno file in ./data/anno_thumos.zip
+* unzip the anno file "./data/anno_thumos.zip"
+* download the feature
 
 # Training
 ```
