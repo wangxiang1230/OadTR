@@ -3,7 +3,7 @@ Code for our paper: "OadTR: Online Action Detection with Transformers"
 
 ## Dependencies
 
-* Pytorch==1.6.0 
+* pytorch==1.6.0 
 * json
 * numpy
 * tensorboard-logger
@@ -12,8 +12,8 @@ Code for our paper: "OadTR: Online Action Detection with Transformers"
 # Feature is coming soon...
 
 # Prepare
-* unzip the anno file "./data/anno_thumos.zip"
-* download the feature
+* Unzip the anno file "./data/anno_thumos.zip"
+* Download the feature
 
 # Training
 ```
