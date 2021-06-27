@@ -23,7 +23,7 @@ python main.py --num_layers 3 --decoder_layers 5 --enc_layers 64 --output_dir mo
 python main.py --num_layers 3 --decoder_layers 5 --enc_layers 64 --output_dir models/en_3_decoder_5_lr_drop_1 --eval --resume models/en_3_decoder_5_lr_drop_1/checkpoint000{}.pth
 ```
 
-## Cite
+# Citing OadTR
 Please cite our paper in your publications if it helps your research:
 
 ```BibTeX
