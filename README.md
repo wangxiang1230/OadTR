@@ -1,5 +1,5 @@
 # OadTR
-Code for our paper: "OadTR: Online Action Detection with Transformers" ["arxiv"](https://arxiv.org/pdf/2106.11149.pdf)
+Code for our paper: "OadTR: Online Action Detection with Transformers" [["arxiv"]](https://arxiv.org/pdf/2106.11149.pdf)
 
 ## Dependencies
 
