@@ -1,5 +1,9 @@
 # OadTR
-Code for our paper: "OadTR: Online Action Detection with Transformers" [["arxiv"]](https://arxiv.org/pdf/2106.11149.pdf)
+Code for our ICCV2021 paper: "OadTR: Online Action Detection with Transformers" [["Paper"]](https://arxiv.org/pdf/2106.11149.pdf)
+
+## Update
+
+* July 28, 2021: Our Paper "OadTR: Online Action Detection with Transformers" was accepted by ICCV2021. At the same time, we released [THUMOS14-Kinetics features](https://zenodo.org/record/5140603#.YQDk8britPY).  
 
 ## Dependencies
 
@@ -12,7 +16,7 @@ Code for our paper: "OadTR: Online Action Detection with Transformers" [["arxiv"
 
 # Prepare
 * Unzip the anno file "./data/anno_thumos.zip"
-* Download the feature [THUMOS14 feature](https://zenodo.org/record/5035147#.YNhWG7vitPY) (Note: [HDD](https://usa.honda-ri.com/hdd) and [TVSeries](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html) are available by contacting the authors of the datasets and signing agreements due to the copyrights.)
+* Download the feature [THUMOS14 feature](https://zenodo.org/record/5035147#.YNhWG7vitPY) (Note: [HDD](https://usa.honda-ri.com/hdd) and [TVSeries](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html) are available by contacting the authors of the datasets and signing agreements due to the copyrights. You can use this [Repo](https://github.com/yjxiong/anet2016-cuhk) to extract features.)
 
 # Training
 ```
