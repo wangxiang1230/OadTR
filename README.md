@@ -16,7 +16,7 @@ Code for our ICCV2021 paper: "OadTR: Online Action Detection with Transformers" 
 
 # Prepare
 * Unzip the anno file "./data/anno_thumos.zip"
-* Download the feature [THUMOS14 feature](https://zenodo.org/record/5035147#.YNhWG7vitPY) (Note: [HDD](https://usa.honda-ri.com/hdd) and [TVSeries](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html) are available by contacting the authors of the datasets and signing agreements due to the copyrights. You can use this [Repo](https://github.com/yjxiong/anet2016-cuhk) to extract features.)
+* Download the feature [THUMOS14-Anet feature](https://zenodo.org/record/5035147#.YNhWG7vitPY) (Note: [HDD](https://usa.honda-ri.com/hdd) and [TVSeries](https://homes.esat.kuleuven.be/psi-archive/rdegeest/TVSeries.html) are available by contacting the authors of the datasets and signing agreements due to the copyrights. You can use this [Repo](https://github.com/yjxiong/anet2016-cuhk) to extract features.)
 
 # Training
 ```
