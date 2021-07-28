@@ -3,7 +3,7 @@ Code for our ICCV2021 paper: "OadTR: Online Action Detection with Transformers" 
 
 ## Update
 
-* July 28, 2021: Our Paper "OadTR: Online Action Detection with Transformers" was accepted by ICCV2021. At the same time, we released [THUMOS14-Kinetics features](https://zenodo.org/record/5140603#.YQDk8britPY).  
+* July 28, 2021: Our Paper "OadTR: Online Action Detection with Transformers" was accepted by ICCV2021. At the same time, we released [THUMOS14-Kinetics feature](https://zenodo.org/record/5140603#.YQDk8britPY).  
 
 ## Dependencies
 
